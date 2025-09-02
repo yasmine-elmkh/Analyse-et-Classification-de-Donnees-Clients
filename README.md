@@ -2,7 +2,7 @@
 
 Ce dépôt contient deux travaux pratiques réalisés dans le cadre du cours de Data Mining, illustrant des techniques d'analyse de données, de détection d’anomalies et de classification.
 
----
+                    -----------------------------------------------------------
 
 ## TP1 : Analyse et Nettoyage
 
@@ -17,7 +17,7 @@ Ce dépôt contient deux travaux pratiques réalisés dans le cadre du cours de 
 - Détection des valeurs aberrantes
 - Analyse descriptive des variables
 
----
+                    -----------------------------------------------------------
 
 ## TP2 : Classification et Clustering
 
@@ -30,4 +30,3 @@ Ce dépôt contient deux travaux pratiques réalisés dans le cadre du cours de 
 - Clustering avec **K-Means** et **DBSCAN**
 - Identification des groupes de clients et anomalies
 - Comparaison des performances des algorithmes
-
