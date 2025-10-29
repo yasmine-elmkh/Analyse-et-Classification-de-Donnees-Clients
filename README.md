@@ -1,4 +1,5 @@
-# Analyse-et-Classification-de-Donnees-Clients ### (Travaux Pratiques Data Mining TP1 & TP2)
+# Analyse-et-Classification-de-Donnees-Clients 
+### (Travaux Pratiques Data Mining TP1 & TP2)
 
 Ce dépôt contient deux travaux pratiques réalisés dans le cadre du cours de Data Mining, illustrant des techniques d'analyse de données, de détection d’anomalies et de classification.
 
