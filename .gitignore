@@ -1,0 +1,8 @@
+# Ignorer les fichiers d'environnement
+.venv
+
+# Ignorer tous les fichiers CSV (données brutes, résultats, etc.)
+*.csv
+
+# Ignorer les checkpoints de notebooks Jupyter
+.ipynb_checkpoints/
